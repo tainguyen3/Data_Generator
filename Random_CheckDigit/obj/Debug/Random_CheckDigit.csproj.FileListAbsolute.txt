@@ -1,0 +1,20 @@
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\bin\Debug\Random_CheckDigit.exe.config
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\bin\Debug\Random_CheckDigit.exe
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\bin\Debug\Random_CheckDigit.pdb
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.csprojAssemblyReference.cache
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.Form1.resources
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.Properties.Resources.resources
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.csproj.GenerateResource.cache
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.csproj.CoreCompileInputs.cache
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.exe
+C:\Users\tnguyen3\source\repos\Random_CheckDigit\obj\Debug\Random_CheckDigit.pdb
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\bin\Debug\Random_CheckDigit.exe.config
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\bin\Debug\Random_CheckDigit.exe
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\bin\Debug\Random_CheckDigit.pdb
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.csprojAssemblyReference.cache
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.Form1.resources
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.Properties.Resources.resources
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.csproj.GenerateResource.cache
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.csproj.CoreCompileInputs.cache
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.exe
+C:\Users\tnguyen3\OneDrive - Datalogic S.p.a\VS_prj\Random_CheckDigit\obj\Debug\Random_CheckDigit.pdb
